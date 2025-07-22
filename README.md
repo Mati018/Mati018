@@ -2,6 +2,18 @@
 <h3 align="center">A Full Stack Software Engineer with 5 Years of Experience</h3>
 
 <p align="center">
+  <a href="mailto:m.meersayed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matiurrehman-meersayed/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/user1122be/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mati018&label=Profile%20views&color=0e75b6&style=flat" alt="mati018" />
 </p>
 
